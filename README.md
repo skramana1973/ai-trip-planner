@@ -3,12 +3,20 @@ This AI based app takes care of booking flights hotels etc for trip based on cal
 
 ## Team Members
 
+Technical and Idea Team:
+
 - **Kothandaraman Sikamani** - Chief Tech. Architect - [LinkedIn](https://www.linkedin.com/in/kothandaramans/)
-- **Ruby ** - Tech. Architect 
+- **Ruby Singh** - Tech. Architect 
 
-# This page still Work in PROGRESS
+Business Team:
 
-# Install Fetch AI and Groq and Tools related (One Time):
+- **Rofhiwa Gono** 
+- **Darla Narendra** 
+- **Laura Sabanbayeva** 
+
+# This page still Work in PROGRESS 
+
+# Install Fetch AI, Groq and Tools related (One Time):
 
 # Follow the documentation from 
 
@@ -17,7 +25,6 @@ https://fetch.ai
 https://fetch.ai/docs
 https://groq.com/blog/
 
- 
 ```
 
 # Create Fetch.AI account and continue deploying Agents as per docs and provided code in this repo.
