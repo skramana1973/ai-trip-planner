@@ -24,8 +24,6 @@ https://groq.com/blog/
 
 # Create Fetch.AI account and continue deploying Agents as per docs and provided code in this repo.
 
-We have many agents that work together to book flights and hotels for the trip.
-
 Problem Statement :
 
 ![alt text](images/Problem_Statement.png)
@@ -44,6 +42,10 @@ How Different :
 
 
 High Level FLow :
+
+There are many agents works behind using Fetch.AI to have end to end all tasks to be completed.
+And many more agents will be added to enhance functional and best expereince to the end users.
+Real-time agents will be implemented that will have more accurate and precise results USing LLM and RAG approach along with more personalized knowledge about the user.
 
 ![alt text](images/Architecture.png)
 
