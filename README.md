@@ -1,7 +1,5 @@
-# ai-trip-planner - TheTrip.ai
+# TheTrip.ai - ai-trip-planner 
 This AI based app takes care of booking flights hotels etc for trip based on calender  based on personal information and Large Language Model and RAG and Agent approach. 
-
-## Team Members
 
 ## Team Members
 
@@ -63,8 +61,7 @@ Agents Logs Output :
 
 ## Demo Video ( ~ 1 Min)
 
-[Click here to watch the demo video](images/1_min_demo.mp4)
-
+[![Watch the video](images/Architecture.png)](images/1_min_demo.mp4)
 
 Future : 
 - Additional agents will be integrated to enhance functionality and provide the best user experience.
