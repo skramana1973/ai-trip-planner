@@ -72,7 +72,14 @@ Numerous agents work behind the scenes using Fetch.AI to ensure end-to-end task 
 
 ## Demo Video ( ~ 1 Min)
 
-[![Watch the video](images/Architecture.png)](images/1_min_demo.mp4)
+## Demo Video
+
+[![Fetch.AI Hackathon Agentic Recorded demo ](https://img.youtube.com/vi/CCK59oDiuVg/hqdefault.jpg)](https://youtu.be/CCK59oDiuVg)
+
+## Demo Video
+
+[![Fetch.AI Hackathon Demo -  1st ](https://img.youtube.com/vi/AEv7lvOlGbw/hqdefault.jpg)](https://youtu.be/AEv7lvOlGbw)
+
 
 Future : 
 - Additional agents will be integrated to enhance functionality and provide the best user experience.
