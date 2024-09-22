@@ -61,9 +61,9 @@ Agents Logs Output :
 ![alt text](images/EmailAgent.png)
 
 
-Demo(1 - Min)
+## Demo Video ( ~ 1 Min)
 
-![alt text](images/1_min_demo.mp4)
+[Click here to watch the demo video](images/1_min_demo.mp4)
 
 
 Future : 
