@@ -16,11 +16,11 @@ This AI based app takes care of booking flights hotels etc for trip based on cal
 
 # This page still Work in progress 
 
-# Install Fetch AI, Groq and Tools related (One Time):
-
-# Follow the documentation from 
+Install Fetch AI, Groq and Tools related (One Time):
 
 ```
+Follow below links for documentation :
+
 https://fetch.ai
 https://fetch.ai/docs
 https://groq.com/blog/
