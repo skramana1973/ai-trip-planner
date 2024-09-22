@@ -61,6 +61,10 @@ Agents Logs Output :
 ![alt text](images/EmailAgent.png)
 
 
+Demo(1 - Min)
+
+![alt text](images/1_min_demo.mp4)
+
 
 Future : 
 - Additional agents will be integrated to enhance functionality and provide the best user experience.
@@ -68,4 +72,3 @@ Future :
   - Large Language Models (LLMs)
   - Retrieval-Augmented Generation (RAG) techniques
   - Personalized knowledge about the user for tailored experiences
-  
