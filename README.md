@@ -12,11 +12,13 @@ https://fetch.ai/docs
  
 ```
 # Create Fetch.AI account and continue deploying Agents as per docs and provided code in this repo.
-```
+
 We have many agents that work together to book flights and hotels for the trip.
 
 ![alt text](image.png)
-```
+
+
+
 
 # Create CrewAi Project :
 
