@@ -18,7 +18,7 @@ This AI based app takes care of booking flights hotels etc for trip based on cal
 - **Darla Narendra** 
 - **Laura Sabanbayeva** 
 
-# ********  This project still in progress ***************
+### ********  This project still in progress ***************
 
 Install Fetch AI, Groq and Tools related (One Time):
 
