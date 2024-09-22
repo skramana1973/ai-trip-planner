@@ -41,14 +41,11 @@ How Different :
 ![alt text](images/how_diff.png)
 
 
+Numerous agents work behind the scenes using Fetch.AI to ensure end-to-end task completion.
+
 High Level FLow :
 
-There are many agents works behind using Fetch.AI to have end to end all tasks to be completed.
-And many more agents will be added to enhance functional and best expereince to the end users.
-Real-time agents will be implemented that will have more accurate and precise results USing LLM and RAG approach along with more personalized knowledge about the user.
-
 ![alt text](images/Architecture.png)
-
 
 Agents Logs Output : 
 
@@ -64,3 +61,11 @@ Agents Logs Output :
 ![alt text](images/EmailAgent.png)
 
 
+
+Future : 
+- Additional agents will be integrated to enhance functionality and provide the best user experience.
+- Real-time agents will be implemented to deliver more accurate and precise results by leveraging:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG) techniques
+  - Personalized knowledge about the user for tailored experiences
+  
