@@ -90,6 +90,13 @@ async def handle_message(ctx: Context, sender: str, msg: Request):
     ):
 
         ctx.logger.info(f"ALL TASKS COMPLETED EMAIL ALSO SENT !!! EmailAgent : {msg}")
+
+        # Save somewhere
+
+        # Access this from UI
+
+        # Whatsapp the confirmations details - Optional
+
     elif (flight_confirmation_message != "") and (
         hotel_confirmation_message != "" and (email_sent_message == "")
     ):
@@ -112,6 +119,7 @@ async def handle_message(ctx: Context, sender: str, msg: Request):
             hotel_name=msg.hotel_name,
         )
         await ctx.send(f"{MY_AGENTS_ADDRESS['EmailAgent']}", email_request)
+
         ctx.storage.set(f"EmailAgent_SENT_{msg.time_sent}", f"{msg.message}")
         ctx.logger.debug(f"Message sent to EmailAgent message : {email_request} ")
     else:
