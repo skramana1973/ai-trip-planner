@@ -86,6 +86,6 @@ Numerous agents work behind the scenes using Fetch.AI to ensure end-to-end task 
 Future : 
 - Additional agents will be integrated to enhance functionality and provide the best user experience.
 - Real-time agents will be implemented to deliver more accurate and precise results by leveraging:
-  - Large Language Models (LLMs)
+  - More In-Depth and many Large Language Models (LLMs) Integrations
   - Retrieval-Augmented Generation (RAG) techniques
   - Personalized knowledge about the user for tailored experiences
