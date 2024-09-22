@@ -20,5 +20,22 @@ https://fetch.ai/docs
 
 We have many agents that work together to book flights and hotels for the trip.
 
-![alt text](image.png)
+High Level FLow :
+
+![alt text](Architecture.png)
+
+
+Agents Logs Output : 
+
+![alt text](CoordinatorAgent.png)
+
+
+![alt text](FlightBookingAgent.png)
+
+
+![alt text](HotelBookingAgent.png)
+
+
+![alt text](EmailAgent.png)
+
 
