@@ -22,20 +22,20 @@ We have many agents that work together to book flights and hotels for the trip.
 
 High Level FLow :
 
-![alt text](Architecture.png)
+![alt text](images/Architecture.png)
 
 
 Agents Logs Output : 
 
-![alt text](CoordinatorAgent.png)
+![alt text](images/CoordinatorAgent.png)
 
 
-![alt text](FlightBookingAgent.png)
+![alt text](images/FlightBookingAgent.png)
 
 
-![alt text](HotelBookingAgent.png)
+![alt text](images/HotelBookingAgent.png)
 
 
-![alt text](EmailAgent.png)
+![alt text](images/EmailAgent.png)
 
 
