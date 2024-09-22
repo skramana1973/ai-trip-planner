@@ -6,7 +6,7 @@ This AI based app takes care of booking flights hotels etc for trip based on cal
 ## Team Members
 
 - **Kothandaraman Sikamani** - Chief Tech. Architect - [LinkedIn](https://www.linkedin.com/in/kothandaramans/)
-- **Ruby Singh** - Tech. Architect - iPowersoft
+- **Ruby ** - Tech. Architect 
 
 # This page still Work in PROGRESS
 
